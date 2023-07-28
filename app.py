@@ -34,6 +34,7 @@ import os
 
 table = get_exchange_table()
 print("table",table)
+print("test")
 
 app = Flask(__name__)
 
